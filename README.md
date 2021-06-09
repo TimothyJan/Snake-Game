@@ -2,6 +2,6 @@
 Simple Snake Game using Python.
 Rules:
     The snake's name is Timmy.
-    Eating food will increase your score and Timmy's length.
-        Eating a turtle is worth 2 points and will extend Timmy's body by only 1.
+    Eating food will increase your score by 1 point and Timmy's length by 1 unit.
+        Eating a turtle is worth 2 points and will extend Timmy's body by only 1 unit.
     Colliding with your body or the walls will result in a GAME OVER.
