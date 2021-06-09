@@ -1,5 +1,5 @@
 # Snake-Game
-Simple Snake Game using Python.
+Simple Snake Game using Python Turtle.
 Controls: Arrow keys(Up, Down, Left, Right)
 Rules:
     The snake's name is Timmy.
