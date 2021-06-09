@@ -1,5 +1,6 @@
 # Snake-Game
 Simple Snake Game using Python.
+Controls: Arrow keys(Up, Down, Left, Right)
 Rules:
     The snake's name is Timmy.
     Eating food will increase your score by 1 point and Timmy's length by 1 unit.
